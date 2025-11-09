@@ -1,8 +1,8 @@
 
 import Logo from '@/components/Shared/logo/logo'
 import React from 'react'
-import NavBarDesktop from './NavBarDesktop/NavBarDesktop'
-import NavBarMobile from './NavBarMobile/NavBarMobile'
+import { NavBarDesktop, NavBarMobile } from '..'
+
 
 export  function Navbar() {
   return (

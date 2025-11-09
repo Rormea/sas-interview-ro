@@ -6,7 +6,7 @@ import { Menu, X } from 'lucide-react'
 import { links } from '..';
 import Link from 'next/link';
 
-export default function NavBarMobile() {
+export  function NavBarMobile() {
 
   const [IsOpen, setIsOpen] = useState(false);
 
@@ -37,3 +37,5 @@ export default function NavBarMobile() {
     </div>
   )
 }
+
+

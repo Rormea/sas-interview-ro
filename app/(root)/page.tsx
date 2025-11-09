@@ -1,4 +1,5 @@
-import { Navbar } from "./components";
+import { Navbar,HeroBlock} from "./components";
+
 
 
 
@@ -12,8 +13,8 @@ export default function Home() {
       
       <Navbar />
 
-
-
+  
+      <HeroBlock/>
 
     </div>
      
