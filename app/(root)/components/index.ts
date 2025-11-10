@@ -5,3 +5,6 @@ export * from "./Navbar/NavBarMobile/NavBarMobile";
 //hero block
 
 export * from "./HeroBlock"
+
+//how it works
+export * from "./HowItWorks/HowItWorks";
